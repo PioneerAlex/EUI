@@ -7,6 +7,8 @@ cd '/Users/alex/Dropbox/EUI/ECM/ECM_3/PS1'
 %% specification
 modelMA = arima('Constant',1,'MA',{-1.3,0.4},'Variance',1);
 impulse(modelMA, 30);
+    FigName = 'IRF_MA';         % figure name for saving      
+    print('-depsc','-r100',FigName); % saving
 %% simulation
 y = simulate(modelMA,500);
 %% acf
