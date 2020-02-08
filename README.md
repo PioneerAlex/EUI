@@ -1,3 +1,2 @@
 # EUI
-EUI HW &amp; projects
-Aleksei Kiselev
+EUI HW &amp; projects by Aleksei Kiselev
