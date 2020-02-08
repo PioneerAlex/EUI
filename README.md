@@ -1,2 +1,2 @@
 # EUI
-EUI HW &amp; projects
+EUI HW &amp; projects by Aleksei Kiselev
